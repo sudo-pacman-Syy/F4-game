@@ -8,8 +8,8 @@ A console-based Tower Defense game written in Python using the `curses` library.
 
 ### 1. Cloning the repository
 ```
-git clone https://github.com/sudo-pacman-Syy/F1.git
-cd F1
+https://github.com/sudo-pacman-Syy/F4-game.git
+cd F4-game
 ```
 
 ### 2. Running the game via Docker
