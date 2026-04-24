@@ -1,0 +1,8 @@
+services:
+  F4-game:
+    build: .
+    image: F4-game:latest
+    stdin_open: true
+    tty: true
+    environment:
+      - TERM=xterm-256color
