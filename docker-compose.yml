@@ -1,7 +1,7 @@
 services:
-  F4-game:
+  f4-game:
     build: .
-    image: F4-game:latest
+    image: f4-game:latest
     stdin_open: true
     tty: true
     environment:
