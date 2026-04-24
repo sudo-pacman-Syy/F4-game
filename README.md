@@ -14,7 +14,7 @@ cd F4-game
 
 ### 2. Running the game via Docker
 
-We use Docker to ensure the game runs in an isolated environment, eliminating the need to install dependencies directly on your system.
+Use Docker to ensure the game runs in an isolated environment, eliminating the need to install dependencies directly on your system.
 Make sure you have Docker and Docker Compose installed.
 ```
 make run
